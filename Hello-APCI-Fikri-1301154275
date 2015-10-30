@@ -1,6 +1,14 @@
 Program Hello;
 Uses Crt;
 Begin
-ClrScr;
-Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
-End
+	ClrScr;
+	Writeln(‘Hello’); //untuk mengeluarkan string ‘Hello World’ di layar
+	Writeln('1301154275')//ubah untuk menampilkan NIM
+	Writeln('Azka Apta Afrizal')//Ubah untuk menampilkan Nama Anda
+	Writeln('IF39-09')//ubah untuk menampilkan kelas anda
+	Writeln('FIKRI')//Ubah untuk menampilkan Aprak Anda
+	Writeln('1301150023')ubah untuk menampilkan NIM teman anda
+	Writeln(‘Modul 6’); //Ubah untuk menampilkan string ‘Modul 6
+            End.
+
+
